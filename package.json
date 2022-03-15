@@ -1,19 +1,19 @@
 {
-  "name": "ideaabbott---copia",
+  "name": "abbottsass",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000a\u0000b\u0000b\u0000o\u0000t\u0000t\u0000S\u0000A\u0000S\u0000S\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demianabbott/bootstrap.git"
+    "url": "git+https://github.com/demianabbott/abbottSASS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/demianabbott/bootstrap/issues"
+    "url": "https://github.com/demianabbott/abbottSASS/issues"
   },
-  "homepage": "https://github.com/demianabbott/bootstrap#readme"
+  "homepage": "https://github.com/demianabbott/abbottSASS#readme"
 }
