@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/demianabbott/abbottSASS/issues"
   },
-  "homepage": "https://github.com/demianabbott/abbottSASS#readme"
+  "homepage": "https://github.com/demianabbott/abbottSASS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
 }
