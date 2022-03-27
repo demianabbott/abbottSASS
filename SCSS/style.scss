@@ -16,12 +16,13 @@ body {
     "footer footer footer footer";
 }
 
-@import "./header";
-@import "./main";
-@import "./aside";
-@import "./section";
-@import "./footer";
+@import "../components/header";
+@import "../components/main";
+@import "../components/aside";
+@import "../components/section";
+@import "../components/footer";
 @import "../base/variables";
+@import "../base/extends";
 
 
 

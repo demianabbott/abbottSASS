@@ -17,11 +17,17 @@ body {
 }
 
 .header__index {
-  grid-area: header;
-  border-bottom: 1px solid #38b634;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.header__index {
+  grid-area: header;
+  border-bottom: 1px solid #38b634;
+  /*display: flex;
+  justify-content: space-between;
+  align-items: center;*/
   padding-right: 2rem;
   position: sticky;
   top: 0;
@@ -58,9 +64,14 @@ body {
   margin-top: 4rem;
   margin-left: 30px;
 }
+.main__index p {
+  font-size: 60px;
+  font-weight: 600;
+}
 .main__index h1 {
   margin-bottom: 1.5rem;
-  font-size: 70px;
+  font-size: 20px;
+  font-weight: 300;
 }
 .main__index button {
   margin-top: 2rem;
@@ -123,17 +134,26 @@ body {
 
 .footer__index {
   grid-area: footer;
+  /*display: flex;
+  justify-content: space-between;
+  align-items: center;*/
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 10rem;
   padding: 2rem;
-  justify-content: space-between;
-  align-items: center;
   background-color: #38b634;
 }
 .footer__index i {
   font-size: 20px;
   padding: 1rem;
   color: white;
+}
+
+.header__index {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */
